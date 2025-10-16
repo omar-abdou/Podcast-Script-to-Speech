@@ -1,0 +1,5 @@
+{
+  "name": "Podcast Script to Speech",
+  "description": "An application that uses Gemini's Text-to-Speech capabilities to convert a multi-speaker Arabic podcast script into playable audio. Users can select different voices for each speaker and generate the audio on demand.",
+  "requestFramePermissions": []
+}
